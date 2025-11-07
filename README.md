@@ -18,35 +18,34 @@ I’m a **Software Engineering student** passionate about **backend development,
 
 ### 💻 Skills
 
+<p align="center">
 <table width="100%">
   <tr>
-    <td align="center" width="33%" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <b>Frontend</b>
-      <br><br>
+    <td align="center" width="33%">
+      <b>Frontend</b><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="margin:5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin:5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin:5px;"/>
     </td>
-    <td align="center" width="33%" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <b>Backend</b>
-      <br><br>
+    <td align="center" width="33%">
+      <b>Backend</b><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="margin:5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" style="margin:5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" style="margin:5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="margin:5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" style="margin:5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/django.png" width="50" style="margin:5px;"/>
     </td>
-    <td align="center" width="33%" style="border:1px solid #ccc; padding:10px; border-radius:10px;">
-      <b>Others / Tools</b>
-      <br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" width="50" style="margin:5px;"/>
+    <td align="center" width="33%">
+      <b>Others / Tools</b><br><br>
+      <img src="https://img.icons8.com/color/48/000000/solidworks.png" width="50" style="margin:5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" style="margin:5px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="margin:5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" style="margin:5px;"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="50" style="margin:5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="50" style="margin:5px;"/>
+      <img src="https://img.icons8.com/color/48/000000/word.png" width="50" style="margin:5px;"/>
     </td>
   </tr>
 </table>
+</p>
 
 ---
 
