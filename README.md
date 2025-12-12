@@ -50,7 +50,7 @@ I’m a **Software Engineering student** passionate about **backend development,
 ---
 
 ### 🚀 Highlights
-- **Dean’s List:** Every semester  
+- **President’s List:** Every semester  
 - **Peer Educator:** Supporting students in engineering courses  
 - **Project Development:** Creating web apps, backend systems, and engineering models  
 
